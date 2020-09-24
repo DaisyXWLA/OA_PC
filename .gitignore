@@ -1,0 +1,7 @@
+node_modules
+docs/_book
+
+/.idea
+/.vscode
+/dist
+*.iml

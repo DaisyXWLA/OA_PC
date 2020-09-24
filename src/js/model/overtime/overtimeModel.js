@@ -1,0 +1,17 @@
+export default new Model({
+  id: '',
+  ids: '',
+  page: '',
+  size: '',
+  title: '',
+  projectInfo: '',
+  overtimeStartTime: '',
+  overtimeEndTime: '',
+  overtimeDays: '',
+  content: '',
+  departmentName: '',
+  status: '',
+  approver: '',
+  creator: '',
+  createTime: '',
+})

@@ -1,0 +1,15 @@
+export default new Model({
+  id: '',
+  planTitle: '',
+  planType: '',
+  planStartDate: '',
+  planEndDate: '',
+  days: '',
+  content: '',
+  creator: '',
+  createTime: '',
+  ids: '',
+  page: '',
+  size: '',
+  rContent: '',
+});
